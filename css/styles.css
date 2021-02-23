@@ -1,0 +1,47 @@
+body{
+  color: rgb(0, 0, 255);
+  font-family: sans-serif;
+}
+
+a{
+  color: rgb(0, 0, 0);
+}
+
+div{
+  min-height: 10vh;
+  width: 100vw;
+}
+
+h1,h2,h3{
+  text-align: center;
+  color: rgb(0, 0, 0.5);
+  font-size: 2em;
+}
+
+img{
+  display: flex;
+  padding: 20px
+  margin: 0 auto;
+}
+
+p{
+  margin: 5vh 5vw;
+  font-style: italic;
+  color: rgb(255, 0, 0);
+}
+
+#first style{
+  margin-top: 14%
+}
+
+#2nd style{
+  color: rgb(79, 0, 0);
+}
+
+div.seperate{
+   color: rgba(255, 255, 255);
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   flex-direction: column;
+}
